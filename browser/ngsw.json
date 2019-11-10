@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1573387041195,
+  "index": "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/favicon.ico",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/index.html",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/main-es2015.3f60e4b92e538b8a3662.js",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/main-es5.3f60e4b92e538b8a3662.js",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/manifest.webmanifest",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/polyfills-es5.6696c533341b95a3d617.js",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/default.svg",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/france.svg",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/japan.svg",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/qatar.svg",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/rabat.svg",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/tunis.svg",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-128x128.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-144x144.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-152x152.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-192x192.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-384x384.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-512x512.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-72x72.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-96x96.png",
+        "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/img/Weather.PNG"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/default.svg": "ae93eff25a92bbb964b10c3a2e692018f10b1248",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/france.svg": "d406fa49869aa61a69abc0b9b4d7ded321a037ba",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/japan.svg": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/qatar.svg": "e83d9af5168f3e2b1eb2a49240ba71e7fae12685",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/rabat.svg": "2e3bfd17ebc3f22b25b4850bb0e01f78a86e3766",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/cities/tunis.svg": "f8e81b0529ecc678487f3f8586cf9f6920cc7d35",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/assets/img/Weather.PNG": "27f7abcf9e72c8ba0f8cf4292520f6371f38fdd3",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/index.html": "773d8532c83e192bcb5a8d18e15b5d9d584ae273",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/main-es2015.3f60e4b92e538b8a3662.js": "db4f7566b526cf3f318a75a01b1021b8c3cf0cad",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/main-es5.3f60e4b92e538b8a3662.js": "3f262782468bef009f8b66374121945d2f924199",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/manifest.webmanifest": "48876960e80cd878dbdd107d904e27279f1c742b",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/polyfills-es5.6696c533341b95a3d617.js": "45c51483238468881240579c3fdecd19144cff17",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/NguyenNgocPhuocLong/AppWeather-Angular8/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
